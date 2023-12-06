@@ -1,3 +1,7 @@
+# Course " Deep Learning "
+
+## Part 1. Introduction to ML, DL and CV
+
 ### Introduction to Artificial Intelligence
 - **Lecture:** Introduction to Artificial Intelligence
 
