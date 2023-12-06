@@ -1,4 +1,4 @@
-# Course " Deep Learning "
+# Course "Deep Learning"
 
 ## Part 1. Introduction to ML, DL and CV
 
