@@ -1,0 +1,6 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Max","name":"AUC"},{"best_value":"Min","name":"CrossEntropy"}],"launch_mode":"Train","parameters":"","iteration_count":300,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.7709037881,0.668301611],"iteration":0,"passed_time":0.00247700874,"remaining_time":0.7406256133},
+{"learn":[0.8775228185,0.3753519313],"iteration":299,"passed_time":0.6716627383,"remaining_time":0}
+]}
